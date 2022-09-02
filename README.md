@@ -1,6 +1,6 @@
 # IEEE-CIS-Fraud-Detection
 
-### recognize fraudulent credit card transactions
+### Recognize fraudulent credit card transactions
 
 ## Task:
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. We will build a Machine Learning model to detect higher accuracy fraud. And then customers can easily get on with their shopping without any hassle.
